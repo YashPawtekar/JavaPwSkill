@@ -1,0 +1,113 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Launch array2D",
+            "request": "launch",
+            "mainClass": "array2D",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assigment",
+            "request": "launch",
+            "mainClass": "Assigment",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerClass",
+            "request": "launch",
+            "mainClass": "ScannerClass",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraycreation",
+            "request": "launch",
+            "mainClass": "arraycreation",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch condition",
+            "request": "launch",
+            "mainClass": "condition",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch dowhile",
+            "request": "launch",
+            "mainClass": "dowhile",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch nestedloop",
+            "request": "launch",
+            "mainClass": "nestedloop",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch objectcreation",
+            "request": "launch",
+            "mainClass": "objectcreation",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattenloop",
+            "request": "launch",
+            "mainClass": "pattenloop",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch printvsprintln",
+            "request": "launch",
+            "mainClass": "printvsprintln",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch pwskill",
+            "request": "launch",
+            "mainClass": "pwskill",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch terminal",
+            "request": "launch",
+            "mainClass": "terminal",
+            "projectName": "java_8f08fe6b"
+        }
+    ]
+}
