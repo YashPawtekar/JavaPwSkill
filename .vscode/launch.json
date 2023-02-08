@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pangram",
+            "request": "launch",
+            "mainClass": "pangram",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseStringL",
+            "request": "launch",
+            "mainClass": "ReverseStringL",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch indexofstring",
+            "request": "launch",
+            "mainClass": "indexofstring",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStringConcatenation1",
+            "request": "launch",
+            "mainClass": "TestStringConcatenation1",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringarea",
+            "request": "launch",
+            "mainClass": "Stringarea",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch javademo",
             "request": "launch",
             "mainClass": "javademo",
