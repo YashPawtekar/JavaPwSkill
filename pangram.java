@@ -17,6 +17,7 @@ public class pangram {
         }
         if(flag==false){
             System.out.println("Its a pangram");
+            // System.out.println("Its a pangram");
         }
     }
 
