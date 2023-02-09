@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch inbuildimmutable",
+            "request": "launch",
+            "mainClass": "inbuildimmutable",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalvsimmutable",
+            "request": "launch",
+            "mainClass": "finalvsimmutable",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch immutable",
+            "request": "launch",
+            "mainClass": "immutable",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch pangram",
             "request": "launch",
             "mainClass": "pangram",
