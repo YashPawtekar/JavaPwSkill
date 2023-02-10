@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Anagram {
@@ -19,9 +18,9 @@ public class Anagram {
         Arrays.sort(arr2);
 
       if(Arrays.equals(arr1, arr2)){
-        System.out.println("yes");
+        System.out.println("This is Anagram ");
       }else{
-        System.out.println("no");
+        System.out.println("This no Anagram");
       }
     }
 

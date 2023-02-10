@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch countNum",
+            "request": "launch",
+            "mainClass": "countNum",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateCharPrint",
+            "request": "launch",
+            "mainClass": "DuplicateCharPrint",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDu",
+            "request": "launch",
+            "mainClass": "RemoveDu",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicate",
+            "request": "launch",
+            "mainClass": "removeDuplicate",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch inbuildimmutable",
             "request": "launch",
             "mainClass": "inbuildimmutable",
