@@ -12,25 +12,25 @@ public class ReverseStringL {
     // }
 
 // reverse word 
-    // public static void main(String[] args){
-    //     String name = "Yash Pawtekar";
-    //     String reversname = "";
-    //     String revnamearray[] = name.split("");
-    //     for(int i=revnamearray.length-1; i>=0; i--){
-    //         reversname = reversname + revnamearray[i] + "";
-    //     }
-    //     System.out.println(reversname); // hsaY raketwaP
-    // }
+    public static void main(String[] args){
+        String name = "Think Twice";
+        String reversname = "";
+        String revnamearray[] = name.split(" ");
+        for(int i=revnamearray.length-1; i>=0; i--){
+            reversname = reversname + revnamearray[i] + " ";
+        }
+        System.out.println(reversname); // hsaY raketwaP
+    }
 
     
 // reverse charater + word 
-    public static void main(String[] args){
-        String name = "Yash Pawtekar";
-        String reversname = "";
-        // String revnamearray[] = name.split("");
-        for(int i=name.length()-1; i>=0; i--){
-            reversname = reversname + name.charAt(i) ;
-        }
-        System.out.println(reversname); // raketwaP hsaY
-    }
+    // public static void main(String[] args){
+    //     String name = "Yash Pawtekar";
+    //     String reversname = "";
+    //     // String revnamearray[] = name.split("");
+    //     for(int i=name.length()-1; i>=0; i--){
+    //         reversname = reversname + name.charAt(i) ;
+    //     }
+    //     System.out.println(reversname); // raketwaP hsaY
+    // }
 }

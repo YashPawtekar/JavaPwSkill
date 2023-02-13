@@ -12,4 +12,4 @@ class palindrome {
     System.out.println("This is not a palindrome");
  }
 }
-}
+} 

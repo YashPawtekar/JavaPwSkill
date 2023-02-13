@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reversforassignmentQ2",
+            "request": "launch",
+            "mainClass": "reversforassignmentQ2",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversForassignment",
+            "request": "launch",
+            "mainClass": "ReversForassignment",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxCountOccu",
+            "request": "launch",
+            "mainClass": "MaxCountOccu",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch uniqueChar",
+            "request": "launch",
+            "mainClass": "uniqueChar",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch anonymaous",
+            "request": "launch",
+            "mainClass": "anonymaous",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch LengthvsLengthM",
+            "request": "launch",
+            "mainClass": "LengthvsLengthM",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch countNum",
             "request": "launch",
             "mainClass": "countNum",
