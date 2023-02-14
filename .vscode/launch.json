@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch staticMethod",
+            "request": "launch",
+            "mainClass": "staticMethod",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalkeyword",
+            "request": "launch",
+            "mainClass": "finalkeyword",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortAlphabe",
+            "request": "launch",
+            "mainClass": "sortAlphabe",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch reversforassignmentQ2",
             "request": "launch",
             "mainClass": "reversforassignmentQ2",
