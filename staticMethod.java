@@ -9,11 +9,16 @@ class Student{
         System.out.println("Hey im Yash from static method");
         System.out.println("Age is : - " + a);
     }
+    void dis1(){
+        System.out.println("Hey im Yash from Non-static method");
+        System.out.println("Age is : - " + a);
+    }
    
 }
 public class staticMethod{
     public static void main(String[] args){
         Student s=new Student();
-        s.dis();
+        Student.dis();
+        s.dis1();
     }
 }
