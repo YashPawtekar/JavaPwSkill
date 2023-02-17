@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch constructorOverloading",
+            "request": "launch",
+            "mainClass": "constructorOverloading",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructor1",
+            "request": "launch",
+            "mainClass": "constructor1",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo1",
+            "request": "launch",
+            "mainClass": "demo1",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encapsulation1",
+            "request": "launch",
+            "mainClass": "Encapsulation1",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch staticMethod",
             "request": "launch",
             "mainClass": "staticMethod",
