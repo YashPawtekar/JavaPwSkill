@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch thisVsSuperInConstructor",
+            "request": "launch",
+            "mainClass": "thisVsSuperInConstructor",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch constructorOverloading",
             "request": "launch",
             "mainClass": "constructorOverloading",

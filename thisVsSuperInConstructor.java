@@ -7,13 +7,16 @@ class employee{
         System.out.println("This is not parameter construtor");
     }
     employee(int id){
+        this();
        this.id = id;
     }
      employee(int id, String name){
+        this(120);
         this.id = id;
         this.name = name;
     }
     employee(int id, String name, int salary){
+        this(119 , "Vijay Pawar");
         this.id = id;
         this.name = name;
         this.salary = salary;
@@ -27,15 +30,16 @@ class employee{
     }
 }
 
-public class constructorOverloading { 
+public class thisVsSuperInConstructor { 
     public static void main(String[] args){
-        employee e1= new employee();
-        e1.show();
-        employee e2= new employee(118);
-        e2.show();
-        employee e3= new employee(119 , "Vijay Pawar");
-        e3.show();
+        // employee e1= new employee();
+        // e1.show();
+        // employee e2= new employee(118);
+        // e2.show();
+        // employee e3= new employee(119 , "Vijay Pawar");
+        // e3.show();
         employee e4= new employee(120, "Sujay Kumar", 100000000);
         e4.show();
     }
 }
+
