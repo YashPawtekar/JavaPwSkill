@@ -1,6 +1,6 @@
 public class pangram {
     public static void main(String[] args){
-        String str1 = "THE QUICK ROWN FOX JUMPS OVER LAZY DOG";
+        String str1 = "THE QUICK ROWN FOX JUMPS OVER LAZY DOGB";
         str1=str1.replace(" ", "");
         boolean flag = false;
         char arr1[] = str1.toCharArray();

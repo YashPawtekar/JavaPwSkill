@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch pangram",
+            "request": "launch",
+            "mainClass": "pangram",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
             "name": "Launch thisVsSuperInConstructor",
             "request": "launch",
             "mainClass": "thisVsSuperInConstructor",
