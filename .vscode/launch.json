@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "interfaceClass",
+            "request": "launch",
+            "mainClass": "interfaceClass",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch add",
+            "request": "launch",
+            "mainClass": "com_example_cal_add.add",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Launch thisVsSuperInConstructor",
             "request": "launch",
             "mainClass": "thisVsSuperInConstructor",
