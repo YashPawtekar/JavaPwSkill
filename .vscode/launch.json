@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lambdaExp",
+            "request": "launch",
+            "mainClass": "lambdaExp",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calculator",
