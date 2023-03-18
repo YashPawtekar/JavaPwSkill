@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "innerClass",
+            "request": "launch",
+            "mainClass": "innerClass",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "assignmentpaaterndemo",
+            "request": "launch",
+            "mainClass": "assignmentpaaterndemo",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "abstrationEx",
+            "request": "launch",
+            "mainClass": "abstrationEx",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "polymorphismEx1",
+            "request": "launch",
+            "mainClass": "polymorphismEx1",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritace",
+            "request": "launch",
+            "mainClass": "Inheritace",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
             "name": "Launch Anagram",
             "request": "launch",
             "mainClass": "Anagram",
