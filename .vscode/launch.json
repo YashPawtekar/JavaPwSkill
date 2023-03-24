@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multitasking1",
+            "request": "launch",
+            "mainClass": "multitasking1",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "multitasking",
+            "request": "launch",
+            "mainClass": "multitasking",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
             "name": "Anagram",
             "request": "launch",
             "mainClass": "Anagram",

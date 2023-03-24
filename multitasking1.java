@@ -1,14 +1,8 @@
-// Multi tasking with extends
+// Multi tasking with implements
 
-class task1 extends Thread{
+class task1 implements Runnable{
     public void run(){
      System.out.println("yash is there");
-     System.out.println("yash is there 1");
-     System.out.println("yash is there 2");
-     System.out.println("yash is there 3");
-     System.out.println("yash is there 4");
-     System.out.println("yash is there 5");
-     
      try{
         for(int i=0; i<3; i++){
             System.out.println("******************************************************");
@@ -18,10 +12,17 @@ class task1 extends Thread{
         System.out.println("Some proble or error there");
      }
 
+     System.out.println("yash is there 1");
+     System.out.println("yash is there 2");
+     System.out.println("yash is there 3");
+     System.out.println("yash is there 4");
+     System.out.println("yash is there 5");
+     
+   
     
     }
 }
-class task2 extends Thread{
+class task2 implements Runnable{
     public void run(){
      System.out.println("yash is there not ");
      System.out.println("yash is there not 1");
@@ -31,12 +32,14 @@ class task2 extends Thread{
     }
 }
 
-public class multitasking{
+public class multitasking1{
   public static void main(String[] args){
    System.out.println("Run application : - ");
      task1 t1= new task1();
      task2 t2= new task2();
-     t1.start();
-     t2.start();
+    Thread nt1 = new Thread(t1);
+    Thread nt2 = new Thread(t2);
+    nt1.start();
+    nt2.start();
   }
 }
