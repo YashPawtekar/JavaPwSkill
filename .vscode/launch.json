@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "arraycreation",
             "request": "launch",
             "mainClass": "arraycreation",
@@ -49,58 +50,68 @@
         {
             "type": "java",
             "name": "innerClass",
+=======
+            "name": "multitasking1",
+>>>>>>> 23e6c1ea82e20692eb3f82e1a583129cfcf13b1b
             "request": "launch",
-            "mainClass": "innerClass",
-            "projectName": "JavaPwSkill_3a51f9fc"
+            "mainClass": "multitasking1",
+            "projectName": "JavaPwSkill_54a2963"
         },
         {
             "type": "java",
-            "name": "assignmentpaaterndemo",
+            "name": "multitasking",
             "request": "launch",
-            "mainClass": "assignmentpaaterndemo",
-            "projectName": "JavaPwSkill_3a51f9fc"
+            "mainClass": "multitasking",
+            "projectName": "JavaPwSkill_54a2963"
         },
         {
             "type": "java",
-            "name": "abstrationEx",
-            "request": "launch",
-            "mainClass": "abstrationEx",
-            "projectName": "JavaPwSkill_3a51f9fc"
-        },
-        {
-            "type": "java",
-            "name": "polymorphismEx1",
-            "request": "launch",
-            "mainClass": "polymorphismEx1",
-            "projectName": "JavaPwSkill_3a51f9fc"
-        },
-        {
-            "type": "java",
-            "name": "Launch Inheritace",
-            "request": "launch",
-            "mainClass": "Inheritace",
-            "projectName": "JavaPwSkill_3a51f9fc"
-        },
-        {
-            "type": "java",
-            "name": "Launch Anagram",
+            "name": "Anagram",
             "request": "launch",
             "mainClass": "Anagram",
-            "projectName": "JavaPwSkill_3a51f9fc"
+            "projectName": "java_70e6c80a"
         },
         {
             "type": "java",
-            "name": "Launch pangram",
+            "name": "assignmentpattern",
             "request": "launch",
-            "mainClass": "pangram",
-            "projectName": "JavaPwSkill_3a51f9fc"
+            "mainClass": "assignmentpattern",
+            "projectName": "java_8f08fe6b"
         },
         {
             "type": "java",
-            "name": "Launch palindrome",
+            "name": "lambdaExp",
             "request": "launch",
-            "mainClass": "palindrome",
-            "projectName": "JavaPwSkill_3a51f9fc"
+            "mainClass": "lambdaExp",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "interfaceClass",
+            "request": "launch",
+            "mainClass": "interfaceClass",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "java_8f08fe6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch add",
+            "request": "launch",
+            "mainClass": "com_example_cal_add.add",
+            "projectName": "java_8f08fe6b"
         },
         {
             "type": "java",
