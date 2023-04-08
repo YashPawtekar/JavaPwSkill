@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arraycreation",
+            "request": "launch",
+            "mainClass": "arraycreation",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "multiThareding",
+            "request": "launch",
+            "mainClass": "multiThareding",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch",
+            "request": "launch",
+            "mainClass": "Launch",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "tryCatchThrow",
+            "request": "launch",
+            "mainClass": "tryCatchThrow",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "lambdaExp",
+            "request": "launch",
+            "mainClass": "lambdaExp",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
+            "name": "annonymaousClass",
+            "request": "launch",
+            "mainClass": "annonymaousClass",
+            "projectName": "JavaPwSkill_3a51f9fc"
+        },
+        {
+            "type": "java",
             "name": "innerClass",
             "request": "launch",
             "mainClass": "innerClass",

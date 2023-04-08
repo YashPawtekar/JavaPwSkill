@@ -9,13 +9,13 @@
 
     // automatic generate array that time use this 
     public static void main(String[] args){
-        int num[] = new int[4];
-        num[0]= 11;
-        num[1]= 18;
-        num[2]= 3;
-        num[3]= 6;
-          for(int i=0; i<=3; i++){
-            System.out.println(num[i]);
+      int[][] num = { {1, 2, 3, 4}, {5, 6, 7} };
+        
+          for(int i=0; i<=1; i++){
+           for(int j=0; j<=2; j++){
+            System.out.print(num[i][j]);
+           }
+           System.out.println("");
           }
         }
 } 
