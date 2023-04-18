@@ -5,7 +5,7 @@ class task1 implements Runnable{
      System.out.println("yash is there");
      try{
         for(int i=0; i<3; i++){
-            System.out.println("******************************************************");
+            System.out.println("YYY*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*//*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*");
             Thread.sleep(2000);
         }
      }catch(Exception e){
@@ -14,6 +14,7 @@ class task1 implements Runnable{
 
      System.out.println("yash is there 1");
      System.out.println("yash is there 2");
+        
      System.out.println("yash is there 3");
      System.out.println("yash is there 4");
      System.out.println("yash is there 5");

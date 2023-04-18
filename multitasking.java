@@ -11,14 +11,12 @@ class task1 extends Thread{
      
      try{
         for(int i=0; i<3; i++){
-            System.out.println("******************************************************");
+            System.out.println("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*//*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*");
             Thread.sleep(2000);
         }
      }catch(Exception e){
         System.out.println("Some proble or error there");
      }
-
-    
     }
 }
 class task2 extends Thread{

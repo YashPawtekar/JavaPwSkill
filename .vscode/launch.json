@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "compareble",
+            "request": "launch",
+            "mainClass": "compareble",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "moreOnMap",
+            "request": "launch",
+            "mainClass": "moreOnMap",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "mapcollecation",
+            "request": "launch",
+            "mainClass": "mapcollecation",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "collection",
+            "request": "launch",
+            "mainClass": "collection",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "arrayList",
+            "request": "launch",
+            "mainClass": "arrayList",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "ScannerClass",
+            "request": "launch",
+            "mainClass": "ScannerClass",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "synchronizationM",
+            "request": "launch",
+            "mainClass": "synchronizationM",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
+            "name": "singleMultithreading",
+            "request": "launch",
+            "mainClass": "singleMultithreading",
+            "projectName": "JavaPwSkill_54a2963"
+        },
+        {
+            "type": "java",
             "name": "multitasking1",
             "request": "launch",
             "mainClass": "multitasking1",
